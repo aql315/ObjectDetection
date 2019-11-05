@@ -1,2 +1,2 @@
 # ObjectDetection
-comming soon due date 2020 jan
+comming soon due on 2020 jan
